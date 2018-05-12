@@ -1,0 +1,42 @@
+_repo: The-BetrothedFrom-the-Italian-of-Alessandro-Manzoni_35155
+_version: 0.1.0
+alternative_title: I promessi sposi. English
+covers:
+- cover_type: archival
+  image_path: 35155-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Manzoni, Alessandro
+    birthdate: 1785
+    deathdate: 1873
+    gutenberg_agent_id: '37500'
+    url: http://www.gutenberg.org/2009/agents/37500
+    wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
+description: '"Set in Lombardy during the Spanish occupation of the late 1620s, The
+  Betrothed tells the story of two young lovers, Renzo and Lucia, prevented from marrying
+  by the petty tyrant Don Rodrigo, who desires Lucia for himself. Forced to flee,
+  they are then cruelly separated, and must face many dangers including plague, famine
+  and imprisonment, and confront a variety of strange characters the mysterious Nun
+  of Monza, the fiery Father Cristoforo and the sinister Unnamed'' in their struggle
+  to be reunited. A vigorous portrayal of enduring passion, The Betrothed''s exploration
+  of love, power and faith presents a whirling panorama of seventeenth-century Italian
+  life and is one of the greatest European historical novels"--P. [4] of cover.'
+gutenberg_issued: '2011-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- Translations into English'
+- !lcsh 'Milan (Italy) -- Fiction'
+- !lcsh 'Plague -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Italy -- History -- 1559-1789 -- Fiction'
+- !lcc 'PQ'
+title: 'The Betrothed
+
+  From the Italian of Alessandro Manzoni'
+url: http://www.gutenberg.org/ebooks/35155
